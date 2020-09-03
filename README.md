@@ -1,4 +1,3 @@
-# Dice_Rolling_Simulator Mini-Project
-Using Github to document my Programming journey.
+# Dice_Rolling_Simulator
 Creating a Dice Rolling Simulator using Python
 
